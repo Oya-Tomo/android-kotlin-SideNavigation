@@ -11,8 +11,8 @@
 　　　（サイドメニュー本体）
 
 ## 手順
-　１. Fragmentを作成
-　２. FragmentをNavigation Graphに登録
-　３. FragmentをMenuに追加
-　４. デザイン組み立て
-　５. コーディング
+ 1. Fragmentを作成
+ 2. FragmentをNavigation Graphに登録
+ 3. FragmentをMenuに追加
+ 4. デザイン組み立て
+ 5. コーディング
